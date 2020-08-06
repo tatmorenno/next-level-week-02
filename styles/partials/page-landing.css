@@ -1,6 +1,6 @@
 
 #page-landing {
-  background: var(--color-primary);
+  background: black;
 }
 
 #page-landing #container {
@@ -54,17 +54,21 @@
 
 .buttons-container a.study {
   background: var(--color-primary-lighter);
+  transition: 1s;
 }
 
 .buttons-container a.study:hover {
-  background: var(--color-primary-light);
+  transform: translateY(-10px);
+  background: var(--color-primary-light); 
 }
 
 .buttons-container a.give-classes {
   background: var(--color-secondary);
   margin-right: 0;
+  transition: .5s;
 }
 .buttons-container a.give-classes:hover {
+  transform: translateY(-10px);
   background: var(--color-secondary-dark);
 }
 
