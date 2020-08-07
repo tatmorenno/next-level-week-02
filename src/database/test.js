@@ -16,7 +16,7 @@ Database.then((db) => {
        
     }
 
-    classScheduleValue = [
+    classScheduleValues = [
         //class_id virá pelo banco de dados automaticamente
         {
         weekday: 1,
