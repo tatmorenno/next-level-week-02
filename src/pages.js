@@ -1,6 +1,6 @@
 const Database = require('./database/db')
 
-const { subjects, weekdays, getSubject } = require('./utils/format')
+const { subjects, weekdays, getSubject, convertHoursToMinutes } = require('./utils/format')
 
 function pageLanding(req, res) {
     return res.render("index.html")
@@ -15,6 +15,10 @@ function pageStudy(req, res) {
 
     }
 
+    // converter horas em minutos
+
+    const timeToMinutes = convertHoursToMinutes(filters.time)
+
 
     const query = `
     
@@ -26,9 +30,11 @@ function pageStudy(req, res) {
             FROM class_schedule
             WHERE class_schedule.class_id = classes.id
             AND class_schedule.weekday = ${filters.weekday}
-            AND class_schedule.time_from <= ${filters.time}
-            AND class_schedule.time_to > ${filters.time}
+            AND class_schedule.time_from <= ${timeToMinutes}
+            AND class_schedule.time_to > ${timeToMinutes}
         )
+
+        AND classes.subject = '${filter.subject}'
         
     `
 
