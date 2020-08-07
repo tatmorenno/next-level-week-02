@@ -125,11 +125,17 @@
     justify-content: space-evenly;
     text-decoration: none;
     transition: background 0.2s;
-    margin-left: 1.6rem;margin-left: 1.6rem;
+    margin-left: 1.6rem;
 }
 
 .teacher-item footer button:hover {
     background: var(--color-secondary-dark);
+}
+
+#page-study main .no-results {
+    max-width: 40rem;
+    margin: 12rem auto;
+    text-align: center;
 }
 
 @media (min-width:700px) {
