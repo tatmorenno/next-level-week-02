@@ -15,4 +15,19 @@ module.exports = async function(db, {proffyValue, classValue, classScheduleValue
     `)
 
     const proffy_id = insertedProffy.lastID
+    // inserir dados na tabela classes
+
+    const insertedClass = await db.run(`
+        INSERT INTO classes (
+            subject,
+            cost,
+            proffy_id
+        ) VALUES (
+            ${classValue.subject},
+            ${classValue.cost},
+            ${proffy_id}
+        );
+
+    `)
+    const class_id = insertedProffy.lastID
 }
