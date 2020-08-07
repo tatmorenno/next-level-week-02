@@ -1,7 +1,7 @@
 {
   "name": "nlw2",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/server.js"
   },
   "repository": {
     "type": "git",
@@ -13,6 +13,10 @@
   },
   "homepage": "https://github.com/tatmorenno/nextlevelweek2#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
   }
 }
