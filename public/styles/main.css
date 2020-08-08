@@ -58,3 +58,65 @@ textarea {
   }
 
 }
+
+.typing-demo {
+  width: 22ch;
+  animation: typing 2s steps(252), blink .5s step-end infinite alternate;
+  white-space: nowrap;
+  overflow: hidden;
+  border-right: red 3px dotted;
+  font-family: Archivo;
+  font-size: 2em;
+  color: whitesmoke;
+}
+
+@keyframes typing {
+  from {
+    width: 0
+  }
+}
+    
+@keyframes blink {
+  50% {
+    border-color: transparent
+  }
+}
+
+.heart {
+  color: red;
+  font-size: 2.5rem;
+}
+
+.give-classes {
+  --color1: #00f8cc;
+  color: var(--color1);
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: all .1s ease-in;
+}
+.give-classes:hover {
+    background: var(--color1);
+    box-shadow:
+    0 0 5px var(--color1),
+    0 0 25px var(--color1),
+    0 0 50px var(--color1),
+    0 0 150px var(--color1);
+    color: #fff;
+  }
+  .study {
+    --color: #9871f5;
+    color: var(--color-primary-lighter);
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: all .1s ease-in;
+  }
+  .study:hover {
+      background: var(--color-primary-lighter);
+      box-shadow:
+      0 0 5px var(--color),
+      0 0 25px var(--color),
+      0 0 50px var(--color),
+      0 0 150px var(--color);
+      color: #fff;
+    }
+  

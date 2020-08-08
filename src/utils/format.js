@@ -1,17 +1,17 @@
 const subjects = [
     "Artes",
-    "Biologia",
-    "Ciências",
-    "Educação Física",
-    "Física",
-    "Geografia",
+    "Comunicação",
+    "Empreendedorismo",
+    "Finanças",
     "História",
-    "Matemática",
-    "Português",
-    "Química",
-]
-
-const weekdays = [
+    "Soft Skills",
+    "Língua Inglesa",
+    "Língua Portuguesa",
+    "Marketing",
+    "Programação"
+  ]
+  
+  const weekdays = [
     "Domingo",
     "Segunda-feira",
     "Terça-feira",
@@ -19,23 +19,21 @@ const weekdays = [
     "Quinta-feira",
     "Sexta-feira",
     "Sábado",
-]
-
-//Funcionalidades
-
-function getSubject(subjectNumber) {
-    const position = +subjectNumber - 1 
+  ]
+  
+  function getSubjects(subjectNumber) {
+    const position = +subjectNumber -1
     return subjects[position]
-}
-
-function convertHoursToMinutes(time) {
-    const [hour, minutes] = time.split(":")
+  }
+  
+  function convertHoursToMinutes(time) {
+    const [ hour, minutes ] = time.split(":")
     return Number((hour * 60) + minutes)
-}
-
-module.exports = {
+  }
+  
+  module.exports = {
     subjects,
     weekdays,
-    getSubject,
+    getSubjects,
     convertHoursToMinutes
-}
+  }

@@ -54,7 +54,7 @@
 
 .buttons-container a.study {
   background: var(--color-primary-lighter);
-  transition: 1s;
+  transition: .7s;
 }
 
 .buttons-container a.study:hover {
@@ -63,13 +63,13 @@
 }
 
 .buttons-container a.give-classes {
-  background: var(--color-secondary);
+  background: var(--color1);
   margin-right: 0;
-  transition: .5s;
+  transition: .8s;
 }
 .buttons-container a.give-classes:hover {
   transform: translateY(-10px);
-  background: var(--color-secondary-dark);
+  background: var(--color1);
 }
 
 .total-connections {
