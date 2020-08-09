@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <img src="https://ik.imagekit.io/tatmorenno/Proffy-_-Sua-plataforma-de-estudos-online-Google-Chrome-2020-08-08-14-48-37__1_-min_uo2SllzM3.gif" width="750" height="450" >  
+  <img src="https://ik.imagekit.io/tatmorenno/picture_compress__1__U6bLx5oBK.gif" width="750" height="450" >  
 </p>
 
 
