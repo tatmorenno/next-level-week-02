@@ -25,4 +25,24 @@ Mais um exemplo de que a prática é a nossa melhor aliada como dev e os pequeno
 - [SQLite](https://www.sqlite.org/index.html)
 - [Nunjucks](https://mozilla.github.io/nunjucks/)
 
+## 🤔 Como executar o projeto?
+
+```bash
+# Clonar o repositório
+git clone https://github.com/guilhermecapitao/proffy-discovery
+
+# Entrar no diretório
+cd proffy-discovery
+
+# Baixar as dependências
+npm i
+
+# Executar o servidor
+npm run dev
+```
+
+Após o passo a passo anterior, abra o seu navegador e acesse `http://localhost:5500/`
+
+---
+
 Feito com ♥ por [Tatiana Emília Moreno](https://www.linkedin.com/in/tatmorenno/) 👩‍💻
