@@ -10,7 +10,7 @@
 
 
 ## 💻 Projeto
-
+Projeto desenvolvido na Next Level Week — trilha Discovery — da Rocketseat em homenagem aos profissionais da educação. Eu já tinha participado da edição anterior e dessa vez absorvi muito mais o conteúdo. Este é mais um exemplo de que a prática é nossa melhor aliada como dev e os pequenos resultados, por menores que sejam, valem muito a pena.
 
 ## 🚀 Tecnologias utilizadas
 
