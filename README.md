@@ -4,7 +4,7 @@
 
 <p align="center">
   <kbd>
-  <img src="https://github.com/tatmorenno/NextLevelWeek-01/blob/master/Proffy.gif" width="850" height="500" >
+  <img src="https://imgur.com/PFXQ5br" width="850" height="500" >
    </kbd>
 </p>
 
