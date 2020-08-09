@@ -10,7 +10,7 @@
 
 
 ## 💻 Projeto
-Projeto desenvolvido na [Next Level Week](https://nextlevelweek.com/inscricao/2) — trilha Discovery — da **[@Rocketseat](https://github.com/Rocketseat)** em homenagem aos profissionais da educação.
+Projeto desenvolvido na [Next Level Week](https://nextlevelweek.com/inscricao/2) — trilha Discovery decolada pelo [Mayk Brito](https://github.com/maykbrito/) — da **[@Rocketseat](https://github.com/Rocketseat)** em homenagem aos profissionais da educação.
 É uma aplicação que combina quem quer aprender com quem ensina a matéria escolhida. 🎓
 Eu já tinha participado da edição anterior e dessa vez absorvi muito mais o conteúdo.
 Mais um exemplo de que a prática é a nossa melhor aliada como dev e os pequenos resultados, por menores que pareçam, valem muito a pena.
