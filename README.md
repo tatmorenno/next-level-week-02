@@ -3,7 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/tatmorenno/NextLevelWeek-01/blob/master/Proffy.gif" width="750" height="450" >  
+  <kbd>
+  <img src="https://github.com/tatmorenno/NextLevelWeek-01/blob/master/Proffy.gif" width="750" height="450" >
+   </kbd>
 </p>
 
 
