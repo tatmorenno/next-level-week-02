@@ -2,10 +2,6 @@
   <img src="https://ik.imagekit.io/capitao/Proffy/nlw2_6d7PvlHZ5.svg" width="150" >
 </p>
 
-<p>
-  <img src="https://ik.imagekit.io/tatmorenno/Proffy-_-Sua-plataforma-de-estudos-online-Google-Chrome-2020-08-08-14-48-37__1__4FP8eYTIG.gif" width="750" height="450" >  
-</p>
-
 
 ## 💻 Projeto
 
