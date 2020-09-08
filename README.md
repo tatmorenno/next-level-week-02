@@ -29,7 +29,7 @@ Mais um exemplo de que a prática é a nossa melhor aliada como dev e os pequeno
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/guilhermecapitao/proffy-discovery
+git clone https://github.com/tatmorenno/nextlevelweek2.git
 
 # Entrar no diretório
 cd proffy-discovery
