@@ -45,4 +45,4 @@ Após o passo a passo anterior, abra o seu navegador e acesse `http://localhost:
 
 ---
 
-Feito com ♥ por [Tatiana Emília Moreno](https://www.linkedin.com/in/tatmorenno/) 👩‍💻
+```<♥>``` Desenvolvido pela [Rocketseat](rocketseat.com.br) com toques especiais de [Tatiana Moreno](https://www.linkedin.com/in/tatmorenno/) ```</♥>```
