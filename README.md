@@ -3,6 +3,14 @@
 </p>
 
 <p align="center">
+  <sub>exemplo da tela inicial do <code>projeto-proffy</code> rodando no Chrome</sub>
+</p>
+
+<p align="center">
+  <sub>↓</sub> 
+</p>
+
+<p align="center">
   <kbd>
   <img src="https://ik.imagekit.io/tatmorenno/picture_compress__1__U6bLx5oBK.gif" width="850" height="500" >
    </kbd>
